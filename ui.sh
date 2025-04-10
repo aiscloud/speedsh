@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🚀 正在部署ok网络测速面板（玻璃UI）..."
+echo "🚀 正在部署云清网络测速面板（玻璃UI）..."
 
 mkdir -p /opt/net_speed_panel/{templates,static}
 cd /opt/net_speed_panel || exit
